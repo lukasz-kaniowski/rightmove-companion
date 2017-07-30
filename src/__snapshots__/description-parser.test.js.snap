@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`description parser should return correct measures 1`] = `
+Array [
+  Object {
+    "a": "3.73",
+    "b": "4.24",
+    "name": "Lounge",
+    "size": 15.8152,
+  },
+  Object {
+    "a": "5.26",
+    "b": "2.51",
+    "name": "Kitchen",
+    "size": 13.202599999999999,
+  },
+  Object {
+    "a": "1.83",
+    "b": "1.7",
+    "name": "Ground Floor",
+    "size": 3.111,
+  },
+  Object {
+    "a": "4.65",
+    "b": "3.58",
+    "name": "Bedroom",
+    "size": 16.647000000000002,
+  },
+  Object {
+    "a": "3.84",
+    "b": "2.57",
+    "name": "Bedroom",
+    "size": 9.868799999999998,
+  },
+  Object {
+    "a": "2.54",
+    "b": "1.96",
+    "name": "Bedroom",
+    "size": 4.9784,
+  },
+  Object {
+    "a": "3.35",
+    "b": "4.88",
+    "name": "Garden",
+    "size": 16.348,
+  },
+]
+`;

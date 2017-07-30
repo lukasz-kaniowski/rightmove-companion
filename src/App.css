@@ -1,0 +1,45 @@
+.App {
+    text-align: center;
+}
+
+.App-header {
+    background-color: #222;
+    height: 50px;
+    padding: 10px;
+    color: white;
+}
+
+.App-intro {
+    font-size: large;
+}
+
+.App-result {
+    list-style-type: none;
+}
+
+.App-sum {
+    list-style-type: none;
+    font-weight: bold;
+}
+
+.App-button {
+    display: block;
+    font-weight: bolder;
+    text-align: center;
+}
+.App-description {
+    width: 100%;
+}
+.App-content {
+    width: 70%;
+    padding-left: 40px;
+}
+
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
